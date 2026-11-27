@@ -1,0 +1,1 @@
+{"description":"The World in One Day — 27 November 2026. A single image summing up 27 November's world news, entered in the make.fun bounty news-image-20261127.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"news-image-20261127","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
